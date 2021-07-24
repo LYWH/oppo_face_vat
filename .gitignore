@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-checkopints/
+
 # Distribution / packaging
 .Python
 build/
@@ -99,6 +99,6 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
+/checkopints
 # mypy
 .mypy_cache/
